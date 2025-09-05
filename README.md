@@ -29,5 +29,5 @@ Mi objetivo es proteger los activos digitales entendiendo cómo piensan y actúa
 
 ---
 
-![Estadísticas de GitHub de jhonmf2104-dev](https://github-readme-stats.vercel.app/api?username=jhonmf2104-dev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmf2104-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Estadísticas de GitHub de jhonnfs2104-dev](https://github-readme-stats.vercel.app/api?username=jhonnfs2104-dev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnfs2104-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

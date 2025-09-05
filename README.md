@@ -24,8 +24,8 @@ Mi objetivo es proteger los activos digitales entendiendo cómo piensan y actúa
 - **Lenguajes:** Bash, Python (para scripting)
 
 ### 📫 ¿Conectamos?
-- **LinkedIn:** [Pega aquí el enlace a tu perfil de LinkedIn]
-- **TryHackMe:** [Si tienes perfil, pégalo aquí]
+- **LinkedIn:** []
+- **TryHackMe:** []
 
 ---
 
